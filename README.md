@@ -10,7 +10,7 @@ This project was created as part of Codecademy's Full-Stack Engineering path.
 ## General Info
 The goal of this project was to create a responsive website for a fictional paint store.
 
-A live version of the site can be viewed [here]().
+A live version of the site can be viewed [here](https://deamun.github.io/paintStore/).
 
 ## Technologies Used
 - HTML5
